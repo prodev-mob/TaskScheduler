@@ -1,25 +1,23 @@
 # TaskScheduler
 
-<ins>**Description:**</ins>
-
 TaskScheduler is a comprehensive iOS app designed to streamline your task management experience. Built with the latest technologies, it harnesses the power of Core Database, MVVM architecture, and SwiftUI to provide a seamless and intuitive interface for organizing your tasks effectively.  
 
 
-<ins>**Features:**</ins>
+## Features
 
 Task Management: Create, edit, prioritize, and categorize tasks effortlessly.  
 Task Scheduling: Set deadlines and recurring tasks for better organization.  
 Customization: Personalize task categories, labels, and priority levels to suit your workflow.  
 
 
-<ins>**Technologies Used:**</ins>
+## Technologies Used
 
 Core Database: Utilize the power of Core Data for efficient data management and storage.  
 MVVM Architecture: Implement a robust and scalable architecture for separating concerns and enhancing maintainability.  
 SwiftUI: Leverage SwiftUI for building a modern and responsive user interface with minimal code.  
 
 
-<ins>**Installation:**</ins>
+## Installation
 
 1. Clone the repository to your local machine:
 ```

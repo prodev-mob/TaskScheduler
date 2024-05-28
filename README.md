@@ -24,7 +24,13 @@ SwiftUI: Leverage SwiftUI for building a modern and responsive user interface wi
 git clone https://github.com/ProdevSoftware/TaskScheduler.git
  ```   
 2. Open the project in Xcode.
-3. Build and run the project on your iOS simulator or device.  
+3. Build and run the project on your iOS simulator or device.
+
+------------------------------------------
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 29 33](https://github.com/ProdevSoftware/TaskScheduler/assets/97152083/d53893ec-68e8-47d1-a804-cacabf87cf74)
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 29 20](https://github.com/ProdevSoftware/TaskScheduler/assets/97152083/d079ff95-0edd-4ac1-856e-4d37b47b42b1)
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 29 09](https://github.com/ProdevSoftware/TaskScheduler/assets/97152083/48677136-dcb0-4ad2-9747-969443301cf9)
+
 
 
 ------------------------------------------                                
